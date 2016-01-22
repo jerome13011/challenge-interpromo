@@ -125,17 +125,44 @@ letter-spacing: 2px;
     font-family:Times, serif;
   }
 .center2 {
-  background-color: black;
   width: 100%;
+  height: 1500px;
+}
+.int1 {
+  width: 50%;
   height: 500px;
+  float: left;
+  background-color: #7CD5EF;
+}
+.int2 {
+  width: 50%;
+  height: 500px;
+  float: right;
+}
+
+.int3 {
+  width: 50%;
+  height: 500px;
+  float: left;
+}
+.int4 {
+  width: 50%;
+  height: 500px;
+  float: right;
+  background-color: #8080BE;
+}
+.int5 {
+  width: 50%;
+  height: 500px;
+  float: left;
+  background-color: #7CD5EF;
 }
 .entred {
-  background-color: blue;
   width: 100%;
   height: 300px;
 }
 .footer2 {
-  background-color: yellow;
+  background-color: #4C535C;
   width: 100%;
   height: 300px;
 }
