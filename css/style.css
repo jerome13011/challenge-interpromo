@@ -1,0 +1,141 @@
+html {
+  width: 100%;
+    font-family: Times New Roman, serif;
+  }
+  body {
+    margin: 0px;
+  }
+h1 {
+  color: red;
+}
+.header1 {
+  width: 100%;
+  height: 100px;
+}
+.header1 li {
+  position: absolute;
+  color: white;
+  display: inline;
+  font-size: 20px;
+  margin-left: 20px;
+}
+.header1 li+li {
+  margin-left: 45px;
+}
+.header1 li+li+li {
+  font-size: 15px;
+  margin-top: 10px;
+  margin-left: 85%;
+}
+.header1 li+li+li+li {
+  margin-left: 90%;
+}
+.center {
+  width: 100%;
+  height: 500px;
+}
+.simple {
+  text-align: center;
+  color: white;
+}
+.simple h1{
+  margin-top: 100px;
+  color: white;
+}
+.bouton1 {
+  width: 287px;
+  height: 35px;
+  background-color: white;
+  color: #7575A6;
+}
+.center1 {
+  color: #8F8A80;
+  margin-top: 100px;
+  width: 100%;
+  height: 500px;
+  border-bottom: solid 1px #8F8A80;
+}
+.quick {
+  margin-left: 200px;
+  margin-right: 150px;
+  margin-top: -20px;
+}
+.cal {
+  margin-top: 200px;
+
+}
+.beautiful {
+  margin-left: 820px;
+  margin-right: 150px;
+  margin-top: -232px;
+  }
+.secure {
+  margin-left: 1400px;
+  margin-right: 150px;
+  margin-top: -230px;
+}
+.center1 p {
+  margin-left: -52px;
+}
+.footer1 {
+  margin-top: -18px;
+    width: 100%;
+  height: 400px;
+  text-align: center;
+  color: #8F8A80;
+  background-color: #F6F9FB;
+}
+.pay {
+  padding-top: 50px;
+  font-family: New Century Schoolbook, serif;
+}
+.pay h3 {
+  color: #B5B5BD;
+  font-size: 30px;
+}
+.pay h3+h3 {
+  margin-top: -25px;
+letter-spacing: 2px;
+}
+.pay h1 {
+  color:#8080BE;
+  margin-left: -321px;
+  font-size: 90px;
+}
+  .pay h1+h1 {
+  color: #737374;
+  font-size: 30px;
+  margin-left: 97px;
+  margin-top: -150px;
+}
+.pay p {
+  margin-top: -22px;
+  margin-left: 9px;
+}
+.header2 {
+  background-color: #4C535C;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  }
+  .header2 h1 {
+    color: white;
+    padding-top: 25px;
+    font-size: 25px;
+    font-family:Times, serif;
+  }
+.center2 {
+  background-color: black;
+  width: 100%;
+  height: 500px;
+}
+.entred {
+  background-color: blue;
+  width: 100%;
+  height: 300px;
+}
+.footer2 {
+  background-color: yellow;
+  width: 100%;
+  height: 300px;
+}
